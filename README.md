@@ -78,5 +78,3 @@ La aplicación gestiona la entidad `Sucursal` con los siguientes atributos:
 * `nombre` (String): Nombre de la sucursal (obligatorio).
 * `direccion` (String): Dirección de la sucursal (obligatorio).
 * `numeroTelefono` (String): Número de teléfono de la sucursal (opcional).
-
-## ¡Gracias!
